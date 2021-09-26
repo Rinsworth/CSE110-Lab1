@@ -2,7 +2,7 @@
 
 My name is Christopher Cha. I am a third year student at UCSD, and my main research interests are Natural Language Processing, Social Computing, and Recommender Systems.
 
-More personally, I like to watch movies and read manga. I've recently been rewatching a lot of Wes Anderson and David Lynch movies. If you have Netflix, I would recommend "What did Jack do?" because it's short. Other than that, I am a big proponent of a short experimental film called Cat Soup (Nekojiru-So), which released in 2001 and is probably as old as many of the people in our class.
+More personally, I like to watch movies and read manga. I've recently been rewatching a lot of [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson) and [David Lynch](https://en.wikipedia.org/wiki/David_Lynch) movies. If you have Netflix, I would recommend "What did Jack do?" because it's short. Other than that, I am a big proponent of a short experimental film called [Cat Soup (Nekojiru-So)](https://en.wikipedia.org/wiki/Cat_Soup), which released in 2001 and is probably as old as many of the people in our class.
 
 In terms of my research, I do a lot in Python, but I'm also fond of Haskell (CSE 130 is a fun class) and APL. APL is especially interesting because you can do a lot of special characters and allows you to do weird stuff. Here are a few examples:
 
@@ -10,8 +10,19 @@ In terms of my research, I do a lot in Python, but I'm also fond of Haskell (CSE
     - `{(+⌿⍵)÷≢⍵}`
 2. A list of prime numbers less than 20:
     - `{⍸2=+⌿0=∘.|⍨⍳⍵}20`
-3. Conway's Game of Life:
+3. [Conway's Game of Life](https://aplwiki.com/wiki/Conway%27s_Game_of_Life):
     - `life ← {⊃1 ⍵ ∨.∧ 3 4 = +/ +⌿ ¯1 0 1 ∘.⊖ ¯1 0 1 ⌽¨ ⊂⍵}`
+
+### Media I like in no particular order
+
+- The Grand Budapest Hotel
+- Serial Experiments Lain
+- Star Trek TNG/DS9
+- im thinking of ending things
+- Annihilation
+- The Witch
+- Porco Rosso
+
 
 ### Grad School Endeavors
 
@@ -25,20 +36,21 @@ I remember a period last year where I asked a few professors about publications 
 While another said
 > If you don't have papers published, your odds drop like a bowling ball.
 
-### Cat
 
+### Cat
 I also have a cat. 
 
+![Cat](images/cat.png)
 
 
 ### Tasks left
-
-- [x] Headings
-- [x] Styling text
-- [x] Quoting text
-- [x] Quoting code
-- [ ] External Links
-- [ ] Section links
-- [ ] Relative links (Link to another .md file or an image in your repo. If - [ ] linking to an image, encode it as a regular link rather than an image.)
-- [ ] Ordered and Unordered Lists
+- [x]  Picture
+- [x]  Headings
+- [x]  Styling text
+- [x]  Quoting text
+- [x]  Quoting code
+- [x]  External Links
+- [ ]  Section links
+- [ ]  Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
 - [x] Task lists
