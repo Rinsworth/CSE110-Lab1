@@ -28,3 +28,17 @@ While another said
 ### Cat
 
 I also have a cat. 
+
+
+
+### Tasks left
+
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [ ] External Links
+- [ ] Section links
+- [ ] Relative links (Link to another .md file or an image in your repo. If - [ ] linking to an image, encode it as a regular link rather than an image.)
+- [ ] Ordered and Unordered Lists
+- [x] Task lists
